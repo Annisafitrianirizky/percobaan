@@ -1,5 +1,5 @@
 FROM ngix:latest
 
-COPY html/usr/share/ngix/html
+COPY html_annisa/usr/share/ngix/html_annisa
 
 EXPOSE 80
